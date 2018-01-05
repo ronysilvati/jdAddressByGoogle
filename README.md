@@ -1,5 +1,6 @@
 # jdAddressByGoogle
-Módulo responsável pelo tratamento um JSON de endereços retornado pela  API <b>geocode</b> da Google
+Módulo responsável pelo tratamento um JSON de endereços retornado pela  API <b>geocode</b> da Google.
+O módulo coloca as informações retornadas pela Google em chaves amigáveis.
 
 ## How to do
 O objeto contém dois métodos:
@@ -97,5 +98,5 @@ addressCleared[originalPosition][lng] = null; // Ainda não implementado
 ```
 ### getAddressWithoutNumber
 
-
+Questions and suggestions can be sent to the email: ronysilvati@live.com
 
